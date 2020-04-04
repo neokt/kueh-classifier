@@ -78,7 +78,6 @@ dependencies:
   - libtool=2.4.6=h14c3975_1002
   - libuuid=2.32.1=h14c3975_1000
   - libwebp=1.1.0=h56121f0_2
-  - libwebp-base=1.1.0=2
   - libxcb=1.13=h14c3975_1002
   - libxkbcommon=0.10.0=he1b5a44_0
   - libxml2=2.9.10=hee79883_0
